@@ -5,7 +5,7 @@ class Magicib < Formula
   desc "MagicIB is a CLI tool that quickly and automatically generates Swift code from Interface Builder files"
   homepage ""
   url "https://github.com/Ryu0118/MagicIB/releases/download/0.0.1/magicib"
-  sha256 "7df7300f74716a32cc3c9e89c367bfc96ea9d7053a1e629bd9ea0b86bf2d3d91"
+  sha256 "138b51d0c4526a0534054b6cdd32c2f547950302eef220dca2164ef475510e7a"
   license "MIT"
 
   # depends_on "cmake" => :build
